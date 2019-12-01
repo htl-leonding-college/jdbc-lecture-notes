@@ -1,0 +1,34 @@
+# JDBC Lecture Notes
+// Metadata
+:author: Thomas Stütz
+:email: <t.stuetz@htl-leonding.ac.at>
+:date: 2019-12-01
+:revision:  1.0
+// Settings
+:source-highlighter: coderay
+:icons: font
+:sectnums:    // Nummerierung der Überschriften / section numbering
+// Refs:
+:imagesdir: images
+:sourcedir-code: src/main/java/at/htl/jdbcprimer
+:sourcedir-test: src/test/java/at/htl/jdbcprimer
+:toc:
+
+Version: {revision}
+
+++++
+<link rel="stylesheet"  href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+++++
+
+
+## Other sources for JDBC
+
+http://tutorials.jenkov.com/jdbc/connection.html
+https://www.javatpoint.com/java-jdbc
+
+
+## Documents
+
+
+
+
