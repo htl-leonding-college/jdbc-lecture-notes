@@ -1,6 +1,5 @@
 @startuml
-(*)
--right-> "Driver"
+(*) -right-> "Driver"
 -right-> "Connection"
 -right-> "Statement"
 -right-> "ResultSet"
