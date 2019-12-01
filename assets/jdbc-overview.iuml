@@ -1,0 +1,6 @@
+@startuml
+(*) -right-> "Connection"
+-right-> "Statement"
+-right-> "ResultSet"
+-right-> (*)
+@enduml
