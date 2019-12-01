@@ -1,0 +1,33 @@
+= JDBC Overview
+// Metadata
+:author: Thomas Stütz
+:email: <t.stuetz@htl-leonding.ac.at>
+:date: 2019-12-01
+:revision:  1.0
+// Settings
+:source-highlighter: coderay
+:icons: font
+:sectnums:    // Nummerierung der Überschriften / section numbering
+// Refs:
+:imagesdir: images
+:sourcedir-code: src/main/java/at/htl
+:sourcedir-test: src/test/java/at/htl
+:plantuml-link: http://www.plantuml.com/plantuml/proxy?cache=no&src=
+:toc:
+
+Version: {revision}
+
+++++
+<link rel="stylesheet"  href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+++++
+
+http://tutorials.jenkov.com/jdbc/overview.html
+
+== Overview
+
+image::{plantuml-link}https://raw.githubusercontent.com/htl-leonding-college/jdbc-lecture-notes/master/assets/jdbc-overview.iuml[JDBC overview]
+
+
+
+
+
