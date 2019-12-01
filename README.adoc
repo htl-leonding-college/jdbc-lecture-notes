@@ -10,8 +10,8 @@
 :sectnums:    // Nummerierung der Überschriften / section numbering
 // Refs:
 :imagesdir: images
-:sourcedir-code: src/main/java/at/htl/jdbcprimer
-:sourcedir-test: src/test/java/at/htl/jdbcprimer
+:sourcedir-code: src/main/java/at/htl
+:sourcedir-test: src/test/java/at/htl
 :toc:
 
 Version: {revision}
@@ -21,14 +21,23 @@ Version: {revision}
 ++++
 
 
+
+## Lecture Notes for HTL Leonding Vocational College
+- link:src/docs/asciidoc/01-jdbc-overview.adoc[01-jdbc-overview]
+- link:src/docs/asciidoc/02-jdbc-connection.adoc[02-jdbc-connection]
+- link:src/docs/asciidoc/03-jdbc-ddl.adoc[03-jdbc-ddl]
+- link:src/docs/asciidoc/04-jdbc-dml.adoc[04-jdbc-dml]
+- link:src/docs/asciidoc/05-jdbc-query.adoc[05-jdbc-query]
+//- link:src/docs/asciidoc/0[]
+
 ## Other sources for JDBC
 
 http://tutorials.jenkov.com/jdbc/connection.html
+https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html
+https://www.ntu.edu.sg/home/ehchua/programming/java/JDBC_Basic.html
+https://www.tutorialspoint.com/jdbc/index.htm
 https://www.javatpoint.com/java-jdbc
 
-
-## Documents
-link:src/docs/asciidoc/01-jdbc-overview.adoc[01-jdbc-overview]
 
 
 
