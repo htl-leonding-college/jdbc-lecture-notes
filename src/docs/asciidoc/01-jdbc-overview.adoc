@@ -27,7 +27,19 @@ http://tutorials.jenkov.com/jdbc/overview.html
 
 image::{plantuml-link}https://raw.githubusercontent.com/htl-leonding-college/jdbc-lecture-notes/master/assets/jdbc-overview.iuml[JDBC overview]
 
+```mermaid
+sequenceDiagram
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+Alice -> Bob:Another authentication Response
+Bob --> Alice: Another authentication Response
+```
 
-
-
-
+[mermaid,,png]
+----
+sequenceDiagram
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+Alice -> Bob:Another authentication Response
+Bob --> Alice: Another authentication Response
+----
